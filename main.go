@@ -1,4 +1,4 @@
-package simpleProgress
+package simpleProgressBar
 
 import (
 	"fmt"
